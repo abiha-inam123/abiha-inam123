@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @abiha-inam123
-- 👀 I’m interested in porogramming
+- 👀 I’m interested in programming/back-end coding
 - 🌱 I’m currently learning html,css,php,python,javascript
+- ✨ I’m currently a 3rd year student of software Engineering
 - 📫 How to reach me mail me at abihainam5@gmail.com
 
 <!---
